@@ -3,7 +3,7 @@
 大屏项目展示
 
 ### 在线情指
-
+<img src="./images/police/qingzhi1.jpeg" alt="">
 ![](./images/police/qingzhi1.jpeg =80%x80%)
 
 ### 在线政保
